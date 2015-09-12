@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "59.png",
+	"frame": {"x":2,"y":2,"w":874,"h":681},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":874,"h":681},
+	"sourceSize": {"w":874,"h":681}
+},
+{
+	"filename": "60.png",
+	"frame": {"x":877,"y":685,"w":869,"h":680},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":869,"h":680},
+	"sourceSize": {"w":869,"h":680}
+},
+{
+	"filename": "61.png",
+	"frame": {"x":2,"y":1366,"w":845,"h":679},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":845,"h":679},
+	"sourceSize": {"w":845,"h":679}
+},
+{
+	"filename": "62.png",
+	"frame": {"x":878,"y":2,"w":780,"h":679},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":780,"h":679},
+	"sourceSize": {"w":780,"h":679}
+},
+{
+	"filename": "63.png",
+	"frame": {"x":849,"y":1367,"w":664,"h":678},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":664,"h":678},
+	"sourceSize": {"w":664,"h":678}
+},
+{
+	"filename": "68.png",
+	"frame": {"x":1515,"y":1367,"w":505,"h":678},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":505,"h":678},
+	"sourceSize": {"w":505,"h":678}
+},
+{
+	"filename": "69.png",
+	"frame": {"x":1660,"y":2,"w":330,"h":676},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":676},
+	"sourceSize": {"w":330,"h":676}
+},
+{
+	"filename": "71.png",
+	"frame": {"x":1748,"y":680,"w":168,"h":674},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":674},
+	"sourceSize": {"w":168,"h":674}
+},
+{
+	"filename": "72.png",
+	"frame": {"x":1918,"y":680,"w":47,"h":675},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":675},
+	"sourceSize": {"w":47,"h":675}
+},
+{
+	"filename": "74.png",
+	"frame": {"x":1967,"y":680,"w":30,"h":676},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":676},
+	"sourceSize": {"w":30,"h":676}
+},
+{
+	"filename": "75.png",
+	"frame": {"x":2,"y":685,"w":873,"h":679},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":873,"h":679},
+	"sourceSize": {"w":873,"h":679}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ss_camera_panel.png",
+	"format": "RGBA8888",
+	"size": {"w":2022,"h":2047},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7bf97540b72db9396dc253b9aed52fb:dd453a10ff24c1e6c8e87e16d5976b30:357a985cef2fff187c2286433b00cf10$"
+}
+}
