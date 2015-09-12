@@ -1,0 +1,16 @@
+﻿@import url(http://fonts.googleapis.com/css?family=VT323);
+
+body {
+    font-family: 'VT323';
+    background: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#dummy {
+    display: none;
+}
+
+#game canvas {
+    margin: 0 auto;
+}
